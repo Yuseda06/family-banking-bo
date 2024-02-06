@@ -30,7 +30,7 @@ export default function Home() {
           </div>
 
           <h1 className="text-2xl font-bold text-center">
-            Welcome to Family Banking BO
+            Welcome to Family Banking BOYO
           </h1>
 
           <div className="container mx-auto p-4 text-xl items-center justify-center flex-row  mt-20 text-center ">
