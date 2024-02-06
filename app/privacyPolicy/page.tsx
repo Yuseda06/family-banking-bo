@@ -90,8 +90,8 @@ export default function PrivacyPolicy() {
         <p>
           For any questions or concerns regarding your privacy, please contact
           us at{" "}
-          <a href="mailto:support@[yourdomain].com" className="text-blue-500">
-            support@[yourdomain].com
+          <a href="mailto:yusryku@gmail.com" className="text-blue-500">
+            yusryku@gmail.com
           </a>
           .
         </p>
